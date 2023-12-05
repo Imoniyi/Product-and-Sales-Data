@@ -8,7 +8,7 @@ Power BI was used to create a relationship and visualize two data (Product and S
 * Headers were promoted
 * Data type was changed from text to fixed decimal number 
 * A new column for revenue was created (this was calculated by multiplying quantity with price).
-* A model and one-to-many relationship was created between 
+* A model and one-to-many relationship was created between .....
 
 # Data Processing
 After cleaning and transforming data, the "Close and Apply" button was clicked to apply the changes done to the data.
