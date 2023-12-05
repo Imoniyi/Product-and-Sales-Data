@@ -13,7 +13,7 @@ Power BI was used to create a relationship and visualize two data (Product and S
 # Data Processing
 After cleaning and transforming data, the "Close and Apply" button was clicked to apply the changes done to the data.
 # Data Visualization
-<img width="601" alt="image" src="https://github.com/Imoniyi/Product-and-Sales-Data/assets/151396523/56ad5091-2284-4745-b38a-80f9d975606e">
+<img width="669" alt="image" src="https://github.com/Imoniyi/Product-and-Sales-Data/assets/151396523/d3c56d9e-3845-4898-87a3-6104ec0016f8">
 
 A new measure was created for the sum of revenue and average ticket price (ATP)
 # Data Interpretation from the dashboard
