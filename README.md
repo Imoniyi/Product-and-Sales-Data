@@ -13,7 +13,9 @@ Power BI was used to create a relationship and visualize two data (Product and S
 # Data Processing
 After cleaning and transforming data, the "Close and Apply" button was clicked to apply the changes done to the data.
 # Data Visualization
-A new measure was created for the sum of revenue and average ticket price
+<img width="595" alt="image" src="https://github.com/Imoniyi/Product-and-Sales-Data/assets/151396523/4e90d8f9-18a7-42a1-9075-6a5fc2e16f78">
+
+A new measure was created for the sum of revenue and average ticket price (ATP)
 # Data Interpretation from the dashboard
 * We can observe that people purchased food more compared to drink. 
 * From the pie chart, we can see that retail is the common sales channel because it generated the highest revenue.
